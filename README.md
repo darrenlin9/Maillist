@@ -1,6 +1,6 @@
 Maillist
 ========
-Darren Lin
+##Darren Lin
 
 This shell script takes a given CRN (course registration number), 
 produces a file containing the email addresses of the members of 
